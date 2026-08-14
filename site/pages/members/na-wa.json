@@ -1,0 +1,5 @@
+{"type": "list", "title": "Members Na-Wa Rows", "back": "menu",
+ "items": [
+   {"label": "Natsume", "goto": "members/pub/natsume"},
+   {"label": "Nintendo", "goto": "members/pub/nintendo"},
+   {"label": "Visco", "goto": "members/pub/visco"}]}

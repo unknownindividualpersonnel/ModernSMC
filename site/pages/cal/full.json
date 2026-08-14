@@ -1,0 +1,8 @@
+{"type": "list", "title": "Full Calendar", "back": "menu",
+ "items": [
+   {"label": "Released April", "goto": "cal/month-4"},
+   {"label": "Released May", "goto": "cal/month-5"},
+   {"label": "Released June", "goto": "cal/month-6"},
+   {"label": "Released July", "goto": "cal/month-7"},
+   {"label": "Released August", "goto": "cal/month-8"},
+   {"label": "September Onward", "goto": "cal/month-late"}]}

@@ -1,0 +1,3 @@
+{"type": "list", "title": "Top Pick Ratings", "back": "menu",
+ "query": {"top": true}, "newest_first": true,
+ "goto": "vr/rating/{gid}"}

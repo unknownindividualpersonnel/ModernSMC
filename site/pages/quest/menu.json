@@ -1,0 +1,4 @@
+{"type": "list", "title": "Questionnaire Entry", "back": "menu",
+ "items": [
+   {"label": "Questionnaire No.1", "goto": "quest/1"},
+   {"label": "Questionnaire No.2", "goto": "quest/2"}]}

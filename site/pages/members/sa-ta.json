@@ -1,0 +1,7 @@
+{"type": "list", "title": "Members Sa-Ta Rows", "back": "menu",
+ "items": [
+   {"label": "Square", "goto": "members/pub/square"},
+   {"label": "Chunsoft", "goto": "members/pub/chunsoft"},
+   {"label": "Data East", "goto": "members/pub/dataeast"},
+   {"label": "Tokuma Shoten", "goto": "members/pub/tokuma"},
+   {"label": "Tomy", "goto": "members/pub/tomy"}]}

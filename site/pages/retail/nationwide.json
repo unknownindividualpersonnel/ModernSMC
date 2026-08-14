@@ -1,0 +1,12 @@
+{"type": "record", "title": "Nationwide Data", "back": "menu",
+ "fields": [["SF Week:", "Apr 15 - Apr 21"],
+            ["#1", "Super Mario World"],
+            ["#2", "Final Fight"],
+            ["#3", "Big Run"],
+            ["#4", "Gradius III"],
+            ["#5", "F-Zero"]],
+ "panes": [
+   {"head": "Famicom  Apr 15 - Apr 21",
+    "body": "#1 Dragon Quest IV\n#2 Super Mario 3\n#3 Dr Mario\n#4 Final Fantasy III\n#5 Famicom Wars"},
+   {"head": "Game Boy  Apr 15 - Apr 21",
+    "body": "#1 Tetris\n#2 Super Mario Land\n#3 Dr Mario\n#4 Sanrio Carnival\n#5 Batman"}]}

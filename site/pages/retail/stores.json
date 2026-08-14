@@ -1,0 +1,9 @@
+{"type": "list", "title": "Per-Store Data", "back": "menu",
+ "items": [
+   {"label": "Ikebukuro Seibu", "goto": "retail/store/seibu"},
+   {"label": "Ikebukuro Tobu", "goto": "retail/store/tobu"},
+   {"label": "Shinjuku Odakyu", "goto": "retail/store/odakyu"},
+   {"label": "Shinjuku Isetan", "goto": "retail/store/isetan"},
+   {"label": "Toyoko Tokyu", "goto": "retail/store/tokyu"},
+   {"label": "Nihonbashi Mitsukoshi", "goto": "retail/store/mitsukoshi"},
+   {"label": "Nihonbashi Takashimaya", "goto": "retail/store/takashimaya"}]}

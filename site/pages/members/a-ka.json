@@ -1,0 +1,4 @@
+{"type": "list", "title": "Members A-Ka Rows", "back": "menu",
+ "items": [
+   {"label": "Athena", "goto": "members/pub/athena"},
+   {"label": "Konami", "goto": "members/pub/konami"}]}

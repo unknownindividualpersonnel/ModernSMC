@@ -1,0 +1,6 @@
+{"type": "quest-choice", "title": "Questionnaire No.1", "back": "parent",
+ "question": "How many copies of Nintendos FC Famicom Wars, released May 21, did your store sell on release day?",
+ "answers": ["Not a single copy", "1-10 copies", "11-20 copies",
+             "21-30 copies", "31 or more"],
+ "text": "Release-day sales of\n{answer}\nhas been selected.",
+ "thanks": "quest/thanks"}

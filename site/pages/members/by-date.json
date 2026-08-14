@@ -1,0 +1,12 @@
+{"type": "list", "title": "By Update Date", "back": "menu",
+ "items": [
+   {"label": "5/18 Athena", "goto": "members/pub/athena"},
+   {"label": "5/17 Konami", "goto": "members/pub/konami"},
+   {"label": "5/15 Chunsoft", "goto": "members/pub/chunsoft"},
+   {"label": "5/15 Natsume", "goto": "members/pub/natsume"},
+   {"label": "5/15 Nintendo", "goto": "members/pub/nintendo"},
+   {"label": "5/10 Data East", "goto": "members/pub/dataeast"},
+   {"label": "5/10 Visco", "goto": "members/pub/visco"},
+   {"label": "5/ 5 Tokuma Shoten", "goto": "members/pub/tokuma"},
+   {"label": "4/22 Square", "goto": "members/pub/square"},
+   {"label": "4/22 Tomy", "goto": "members/pub/tomy"}]}

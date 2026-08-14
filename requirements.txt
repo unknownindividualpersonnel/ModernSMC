@@ -1,0 +1,3 @@
+# Only needed to talk to a modem (--call / --serve).  Everything offline --
+# --check, --selftest, --replay, building pages -- runs on the standard library.
+pyserial>=3.5

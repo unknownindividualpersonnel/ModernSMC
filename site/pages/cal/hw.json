@@ -1,0 +1,5 @@
+{"type": "list", "title": "Calendar by Hardware", "back": "menu",
+ "items": [
+   {"label": "Super Famicom", "goto": "cal/hw-sf"},
+   {"label": "Famicom", "goto": "cal/hw-fc"},
+   {"label": "Game Boy", "goto": "cal/hw-gb"}]}

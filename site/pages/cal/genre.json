@@ -1,0 +1,10 @@
+{"type": "list", "title": "Calendar by Genre", "back": "menu",
+ "items": [
+   {"label": "Action", "goto": "cal/genre-act"},
+   {"label": "Shooting", "goto": "cal/genre-sht"},
+   {"label": "Sports", "goto": "cal/genre-spt"},
+   {"label": "Role-Playing", "goto": "cal/genre-rpg"},
+   {"label": "Simulation", "goto": "cal/genre-sim"},
+   {"label": "Adventure", "goto": "cal/genre-adv"},
+   {"label": "Puzzle", "goto": "cal/genre-puz"},
+   {"label": "Other", "goto": "cal/genre-oth"}]}
