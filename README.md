@@ -1,8 +1,14 @@
 ## What is ModernSMC?
 ModernSMC is my attempt at properly reviving Super Mario Club's servers,
 using ThroatyMumbo's SMC-Server repository as a base.
-When everything is ready to go, i'll update this.
+I'm having trouble attempting to summarize it in words, but essentially
+I'm approaching this with the idea of making an alternate take on Super
+Mario Club into reality: Where it's for both regular consumers and retail
+stores.
 
+## When will it be finished?
+When everything is all said and done and ready to go, i'll update this
+so that people can connect to ModernSMC.
 
 ## Original README
 
