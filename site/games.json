@@ -1,17 +1,17 @@
 {
-  "gbwars": {
-    "title": "Game Boy Wars",
-    "hw": "GB", "month": "5", "day": "21", "top": true,
-    "publisher": "Nintendo", "spec": "GB 2M+64K RAM",
-    "released": "May 21 '91 Tue", "price": "3500 yen",
-    "genre": "SIM", "genre_name": "Simulation", "cont": "Battery Backup",
-    "notes": "Improved version of Famicom Wars",
+  "dkcountry": {
+    "title": "Donkey Kong Country",
+    "hw": "SF", "month": "11", "day": "21", "top": true,
+    "publisher": "Nintendo", "spec": "SF 4M+17K RAM",
+    "released": "Nov '21 Mon", "price": "unknown",
+    "genre": "ACT", "genre_name": "Action", "cont": "Battery Backup",
+    "notes": "Developed by Rare Ltd",
     "extra_panes": [
-      {"head": "Forecast Sales", "body": "Around 300,000 copies expected."},
-      {"head": "Overall", "body": "The Famicom Wars system fits the Game Boy well. CPU thinking time runs long, but link cable battles shine. A must for strategy fans."}],
-    "rating": {"scores": [["Overall", "4.3 / 5"], ["Depth", "4.6"],
-                          ["Graphics", "3.8"], ["Sound", "3.7"],
-                          ["Value", "4.4"]], "replies": 214}},
+      {"head": "Forecast Sales", "body": "Millions of copies expected."},
+      {"head": "Overall", "body": "Donkey Kong goes on a quest to get his hoard of bananas back from King K. Rool and his Kremling Krew."}],
+    "rating": {"scores": [["Overall", "4.8 / 5"], ["Depth", "5"],
+                          ["Graphics", "5"], ["Sound", "3.7"],
+                          ["Value", "4.4"]], "replies": 118}},
   "superproball": {
     "title": "Super Pro Ball",
     "hw": "SF", "month": "5", "day": "17", "top": true,
