@@ -3,14 +3,14 @@
     "title": "Donkey Kong Country",
     "hw": "SF", "month": "11", "day": "21", "top": true,
     "publisher": "Nintendo", "spec": "SF 4M+17K RAM",
-    "released": "Nov '21 Mon", "price": "unknown",
+    "released": "Nov 21 '94 Mon", "price": "unknown",
     "genre": "ACT", "genre_name": "Action", "cont": "Battery Backup",
     "notes": "Developed by Rare Ltd",
     "extra_panes": [
       {"head": "Forecast Sales", "body": "Millions of copies expected."},
       {"head": "Overall", "body": "Donkey Kong goes on a quest to get his hoard of bananas back from King K. Rool and his Kremling Krew."}],
     "rating": {"scores": [["Overall", "4.8 / 5"], ["Depth", "5"],
-                          ["Graphics", "5"], ["Sound", "3.7"],
+                          ["Graphics", "5"], ["Sound", "4.2"],
                           ["Value", "4.4"]], "replies": 118}},
   "superproball": {
     "title": "Super Pro Ball",
