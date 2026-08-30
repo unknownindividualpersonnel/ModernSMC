@@ -24,5 +24,18 @@
       {"head": "Overall", "body": "Mario and friends go go-karting in 16 courses, in impressive Mode 7. Better than F-Zero."}],
     "rating": {"scores": [["Overall", "4.8 / 5"], ["Realism", "4.3"],
                           ["Graphics", "4.0"], ["Sound", "4.8"],
+                          ["Value", "4.6"]], "replies": 188}},
+    "kirbybowl": {
+    "title": "Kirby Bowl",
+    "hw": "SF", "month": "9", "day": "21", "top": true,
+    "publisher": "Nintendo", "spec": "SF 1MB+SRAM",
+    "released": "Sep 21 '94 Wed", "price": "Unknown",
+    "genre": "CAS", "genre_name": "Casual", "cont": "None",
+    "notes": "Kirby goes mini golf",
+    "extra_panes": [
+      {"head": "Forecast Sales", "body": "Around 500,000 copies expected."},
+      {"head": "Overall", "body": "Push Kirby through 8 courses in an isometric view. Developed by HAL Laboratory."}],
+    "rating": {"scores": [["Overall", "4.6 / 5"], ["Realism", "4.6"],
+                          ["Graphics", "4.6"], ["Sound", "4.8"],
                           ["Value", "4.6"]], "replies": 188}}
 }
