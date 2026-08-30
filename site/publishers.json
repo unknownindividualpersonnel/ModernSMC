@@ -1,22 +1,4 @@
 {
-  "athena": {"name": "Athena",
-    "body": "Software release plans.\nJune: FC Dezaemon Tools.\nSummer: GB puzzle lineup."},
-  "konami": {"name": "Konami",
-    "body": "Software release plans.\nJuly: SF Ganbare Goemon.\nFall: SF Akumajou Dracula.\nRerelease plans.\nJune: FC Gradius II reship."},
-  "chunsoft": {"name": "Chunsoft",
-    "body": "Software release plans.\nDragon Quest V for SF is\nin development. Details\nat a later date."},
-  "natsume": {"name": "Natsume",
-    "body": "Software release plans.\nSummer: GB action title.\nFall: SF shooting title."},
   "nintendo": {"name": "Nintendo",
-    "body": "Software release plans.\nLate April: SF new\nKirby Bowl.\nMay TBD: GB Super Mario\nLand 2.\nTBD: FC new Balloon Fight."},
-  "dataeast": {"name": "Data East",
-    "body": "Software release plans.\n5/24: FC Metal Max.\nAdvertising plans.\nMetal Max TV spots from\nmid May."},
-  "visco": {"name": "Visco",
-    "body": "Software release plans.\nSummer: SF sports title."},
-  "tokuma": {"name": "Tokuma Shoten",
-    "body": "Software release plans.\nFamily Computer Magazine\ntie-in titles this fall."},
-  "square": {"name": "Square",
-    "body": "Software release plans.\n7/19: SF Final Fantasy IV.\nAdvertising plans.\nNationwide campaign from\nearly July."},
-  "tomy": {"name": "Tomy",
-    "body": "Software release plans.\nSummer: GB character\npuzzle title."}
+    "body": "New software releases:\nAugust: Super Mario Kart.\nSeptember: Kirby Bowl."}
 }
