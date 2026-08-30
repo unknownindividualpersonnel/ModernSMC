@@ -7,30 +7,14 @@
               "title_palette": 3, "title_emphasis": false,
               "hit_palette": 2},
   "menu": [
-    {"name": "SW Calendar", "lines": [
-      {"code": "101", "title": "Full Calendar    5. 1", "goto": "cal/full"},
-      {"code": "102", "title": "By Hardware      5.12", "goto": "cal/hw"},
-      {"code": "103", "title": "By Genre         5.20", "goto": "cal/genre"}]},
     {"name": "SW Database", "lines": [
       {"code": "111", "title": "SF Title Search", "goto": "db/search-sf"},
-    {"name": "Rerelease News", "lines": [
-      {"code": "121", "title": "Rerelease Cal    5.10", "goto": "rerelease/cal"}]},
-    {"name": "SW Members", "lines": [
-      {"code": "131", "title": "By Update Date   5.18", "goto": "members/by-date"},
-      {"code": "132", "title": "Members A-Ka", "goto": "members/a-ka"},
-      {"code": "133", "title": "Members Sa-Ta", "goto": "members/sa-ta"},
-      {"code": "134", "title": "Members Na-Wa", "goto": "members/na-wa"}]},
     {"name": "Retailer Data", "lines": [
-      {"code": "141", "title": "Nationwide Data  5.11", "goto": "retail/nationwide"},
       {"code": "142", "title": "Per-Store Data   5.11", "goto": "retail/stores"}]},
-    {"name": "VR Game Report", "lines": [
-      {"code": "151", "title": "Market Research  5. 1", "goto": "vr/market"},
-      {"code": "152", "title": "Top Pick Ratings 5.12", "goto": "vr/ratings"}]},
     {"name": "Club Office", "lines": [
       {"code": "161", "title": "Announcements    5.11", "goto": "office/news"},
       {"code": "162", "title": "Hardware Info    5.15", "goto": "office/hw"},
       {"code": "163", "title": "Questionnaire", "goto": "quest/menu"},
-      {"code": "164", "title": "Quest Results", "goto": "office/results"},
       {"code": "165", "title": "Todays Info      5.16", "goto": "office/today"}]}
   ]
 }
