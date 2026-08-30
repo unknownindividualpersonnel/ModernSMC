@@ -1,6 +1,6 @@
 {"type": "quest-choice", "title": "Questionnaire No.1", "back": "parent",
- "question": "How many copies of Nintendos FC Famicom Wars, released May 21, did your store sell on release day?",
- "answers": ["Not a single copy", "1-10 copies", "11-20 copies",
-             "21-30 copies", "31 or more"],
- "text": "Release-day sales of\n{answer}\nhas been selected.",
+ "question": "How many copies of Super Mario Kart have you sold today?",
+ "answers": ["Not a single copy", "10-20 copies", "30-50 copies",
+             "75-100 copies", "150 or more"],
+ "text": "You have selected {answer}.",
  "thanks": "quest/thanks"}
