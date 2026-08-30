@@ -1,5 +1,5 @@
 {
-  "login": "Welcome to ModernSMC Alpha",
+  "login": "Welcome to Super Mario Club",
   "login_key": "0",
   "reject": "Wrong PIN number",
   "preview": "cal/full",
@@ -7,14 +7,17 @@
               "title_palette": 3, "title_emphasis": false,
               "hit_palette": 2},
   "menu": [
+       {"name": "Calendar", "lines": [
+      {"code": "111", "title": "All Releases", "goto": "db/games"},
+      {"code": "111", "title": "Seperate Releases", "goto": "quest/temp"},
     {"name": "SW Database", "lines": [
-      {"code": "111", "title": "SF Title Search", "goto": "db/search-sf"},
+      {"code": "115", "title": "SF Title Search", "goto": "db/search-sf"},
     {"name": "Retailer Data", "lines": [
-      {"code": "142", "title": "Per-Store Data   5.11", "goto": "retail/stores"}]},
+      {"code": "143", "title": "Per-Store Data   5.11", "goto": "retail/stores"}]},
     {"name": "Club Office", "lines": [
       {"code": "161", "title": "Announcements    5.11", "goto": "office/news"},
       {"code": "162", "title": "Hardware Info    5.15", "goto": "office/hw"},
       {"code": "163", "title": "Questionnaire", "goto": "quest/menu"},
-      {"code": "165", "title": "Todays Info      5.16", "goto": "office/today"}]}
+      {"code": "164", "title": "Todays Info      5.16", "goto": "office/today"}]}
   ]
 }
