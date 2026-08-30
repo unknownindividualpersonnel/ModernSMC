@@ -10,6 +10,12 @@ stores.
 When everything is all said and done and ready to go, i'll update this
 so that people can connect to ModernSMC.
 
+## Extra info
+Research is being conducted to make newly added information as accurate
+to historial records as possible. Unfortunately, nobody's bothered to
+archive game prices.
+
+
 ## Original README
 
 
