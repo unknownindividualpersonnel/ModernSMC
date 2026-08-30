@@ -1,5 +1,5 @@
 {
-  "login": "Welcome to ModernSMC",
+  "login": "Welcome to ModernSMC Alpha",
   "login_key": "0",
   "reject": "Wrong PIN number",
   "preview": "cal/full",
@@ -13,8 +13,6 @@
       {"code": "103", "title": "By Genre         5.20", "goto": "cal/genre"}]},
     {"name": "SW Database", "lines": [
       {"code": "111", "title": "SF Title Search", "goto": "db/search-sf"},
-      {"code": "112", "title": "FC Title Search", "goto": "db/search-fc"},
-      {"code": "113", "title": "GB Title Search", "goto": "db/search-gb"}]},
     {"name": "Rerelease News", "lines": [
       {"code": "121", "title": "Rerelease Cal    5.10", "goto": "rerelease/cal"}]},
     {"name": "SW Members", "lines": [
