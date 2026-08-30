@@ -1,8 +1,8 @@
-{"type": "list", "title": "Full Calendar", "back": "menu",
+{"type": "list", "title": "Seperate Releases", "back": "menu",
  "items": [
-   {"label": "Released April", "goto": "cal/month-4"},
-   {"label": "Released May", "goto": "cal/month-5"},
-   {"label": "Released June", "goto": "cal/month-6"},
-   {"label": "Released July", "goto": "cal/month-7"},
-   {"label": "Released August", "goto": "cal/month-8"},
+   {"label": "April", "goto": "cal/month-4"},
+   {"label": "May", "goto": "cal/month-5"},
+   {"label": "June", "goto": "cal/month-6"},
+   {"label": "July", "goto": "cal/month-7"},
+   {"label": "August", "goto": "cal/month-8"},
    {"label": "September Onward", "goto": "cal/month-late"}]}
