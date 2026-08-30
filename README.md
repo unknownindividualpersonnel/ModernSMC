@@ -17,6 +17,9 @@ Research is being conducted to make newly added information as accurate
 to historial records as possible. Unfortunately, nobody's bothered to
 archive game prices.
 
+# To-do:
+Add other system
+Restore all the stuff i axed
 
 ## Original README
 
