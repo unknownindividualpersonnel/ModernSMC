@@ -1,5 +1,5 @@
 {"type": "quest-num", "title": "Questionnaire No.2", "back": "parent",
- "question": "Please tell us how many copies of each title below sold from June 20 through June 30.",
- "items": ["SF Mario World", "SF SimCity", "SF F-Zero"],
+ "question": "Do you like using ModernSMC?",
+ "items": ["Yes", "No""],
  "digits": 3,
  "thanks": "quest/thanks"}
