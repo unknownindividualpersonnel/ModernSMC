@@ -1,10 +1,10 @@
-{"type": "record", "title": "Questionnaire Results", "back": "menu",
- "fields": [["SF Poll:", "Most Wanted"],
-            ["#1", "Super Mario World"],
-            ["#2", "SimCity"],
-            ["#3", "Ultraman"],
-            ["#4", "Final Fight"],
-            ["#5", "F-Zero"]],
+{"type": "record", "title": "Coming Soon", "back": "menu",
+ "fields": [["Temp"],
+            ["Temp"],
+            ["Temp"],
+            ["Temp"],
+            ["Temp"],
+            ["Temp"]],
  "panes": [
-   {"head": "Famicom  Most Wanted",
-    "body": "#1 Metal Max\n#2 Super Mario 3\n#3 Famicom Wars\n#4 Dr Mario\n#5 L'Empereur"}]}
+   {"head": "Temp",
+    "body": "Here lies AI-Generated text, waiting to be replaced."}]}
