@@ -18,8 +18,8 @@ to historial records as possible. Unfortunately, nobody's bothered to
 archive game prices.
 
 # To-do:
-Add other system
-Restore all the stuff i axed
+Add other systems, 
+ Restore all the stuff i axed
 
 ## Original README
 
