@@ -1,5 +1,5 @@
 {"type": "quest-num", "title": "Questionnaire No.2", "back": "parent",
  "question": "Do you like using ModernSMC?",
- "items": ["Yes", "No""],
+ "items": ["Yes", "No"],
  "digits": 3,
  "thanks": "quest/thanks"}
