@@ -1,25 +1,27 @@
-## General Information
+## General Information/Q&A
 
 ### What is ModernSMC?
-ModernSMC is my attempt at properly reviving Super Mario Club's servers,
-using ThroatyMumbo's SMC-Server repository as a base.
-I'm having trouble attempting to summarize it in words, but essentially
-I'm approaching this with the idea of making an alternate take on Super
-Mario Club into reality: Where it's for both regular consumers and retail
-stores.
+ModernSMC is a fork of SMC-Server that is a
+Work-In-Progress revival of Super Mario Club's servers.
+The goal here is to have both quantity AND quality, because
+of course it will, it's a online Famicom program meant to record
+and share information about the video game market to stores!
 
 ### When will it be finished?
 When everything is all said and done and ready to go, i'll update this
 so that people can connect to ModernSMC.
+However, considering the fact this is meant to run locally, there probably
+won't be a way to get it really online for a good while.
 
 ### Extra info
 Research is being conducted to make newly added information as accurate
-to historial records as possible. Unfortunately, nobody's bothered to
+to historical records as possible. Unfortunately, nobody's bothered to
 archive game prices.
 
 # To-do:
-Add other systems, 
- Restore all the stuff i axed
+Add other systems, Restore all the stuff i axed, and eventually add a
+Japanese translation for the sake of both historical accuracy and also
+accessibility 
 
 ## Original README
 
