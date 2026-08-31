@@ -50,6 +50,18 @@
       {"head": "Overall", "body": "Super Famicom launch title. Latest game in the Super Mario series!"}],
     "rating": {"scores": [["Overall", "5 / 5"], ["Realism", "3.8"],
                           ["Graphics", "4.6"], ["Sound", "5"],
-                          ["Value", "4.9"]], "replies": 282}}
-
+                          ["Value", "4.9"]], "replies": 282}},
+  "warioland": {
+    "title": "Wario Land",
+    "hw": "GB", "month": "1", "day": "21", "top": true,
+    "publisher": "Nintendo", "spec": "SF 512KB+SRAM",
+    "released": "Jan 21 '94 Fri", "price": "Unknown",
+    "genre": "ACT", "genre_name": "Action", "cont": "None",
+    "notes": "Super Mario Land 3",
+    "extra_panes": [
+      {"head": "Forecast Sales", "body": "200,000 copies expected"},
+      {"head": "Overall", "body": "Wario goes on a quest for treasure. Gameplay gets people hooked fast."}],
+    "rating": {"scores": [["Overall", "4.4 / 5"], ["Realism", "2.9"],
+                          ["Graphics", "4.6"], ["Sound", "3.6"],
+                          ["Value", "4.3"]], "replies": 111}}
 }
