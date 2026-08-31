@@ -37,5 +37,19 @@
       {"head": "Overall", "body": "Push Kirby through 8 courses in an isometric view. Developed by HAL Laboratory."}],
     "rating": {"scores": [["Overall", "4.6 / 5"], ["Realism", "4.6"],
                           ["Graphics", "4.6"], ["Sound", "4.8"],
-                          ["Value", "4.6"]], "replies": 188}}
+                          ["Value", "4.6"]], "replies": 188}},
+  "marioworld": {
+    "title": "Super Mario World",
+    "hw": "SF", "month": "11", "day": "21", "top": true,
+    "publisher": "Nintendo", "spec": "SF 512KB+SRAM",
+    "released": "Nov 21 '90 Wed", "price": "8000 yen",
+    "genre": "ACT", "genre_name": "Action", "cont": "None",
+    "notes": "Kirby goes mini golf",
+    "extra_panes": [
+      {"head": "Forecast Sales", "body": "As many sales as the console it comes with!"},
+      {"head": "Overall", "body": "Super Famicom launch title. Latest game in the Super Mario series!"}],
+    "rating": {"scores": [["Overall", "5 / 5"], ["Realism", "3.8"],
+                          ["Graphics", "4.6"], ["Sound", "5"],
+                          ["Value", "4.9"]], "replies": 282}}
+
 }
