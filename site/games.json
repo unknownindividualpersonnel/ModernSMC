@@ -63,5 +63,18 @@
       {"head": "Overall", "body": "Wario goes on a quest for treasure."}],
     "rating": {"scores": [["Overall", "4.4 / 5"], ["Realism", "2.9"],
                           ["Graphics", "4.6"], ["Sound", "3.6"],
-                          ["Value", "4.3"]], "replies": 111}}
+                          ["Value", "4.3"]], "replies": 111}},
+    "smrpg": {
+    "title": "Super Mario RPG",
+    "hw": "SF", "month": "3", "day": "9", "top": true,
+    "publisher": "Nintendo", "spec": "SF 4M+SRAM",
+    "released": "Mar 9 '96 Sat", "price": "unknown",
+    "genre": "RPG", "genre_name": "RPG", "cont": "Battery Backup",
+    "notes": "Developed by Squaresoft",
+    "extra_panes": [
+      {"head": "Forecast Sales", "body": "Millions of copies expected."},
+      {"head": "Overall", "body": "A great RPG by Squaresoft, will get players quickly hooked"}],
+    "rating": {"scores": [["Overall", "4.9 / 5"], ["Depth", "5"],
+                          ["Graphics", "5"], ["Sound", "4.9"],
+                          ["Value", "4.6"]], "replies": 162}},
 }
