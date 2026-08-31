@@ -1,4 +1,6 @@
 {
   "nintendo": {"name": "Nintendo",
-    "body": "New software releases:\nAugust: Super Mario Kart.\nSeptember: Kirby Bowl."}
+    "body": "New software releases:\nAugust: Super Mario Kart.\nSeptember: Kirby Bowl."},
+  "square": {"name": "Squaresoft",
+    "body": "New software releases:\nSuper Mario RPG"}
 }
