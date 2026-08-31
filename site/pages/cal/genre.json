@@ -1,6 +1,7 @@
 {"type": "list", "title": "Calendar by Genre", "back": "menu",
  "items": [
    {"label": "Action", "goto": "cal/genre-act"},
+  {"label": "Casual", "goto": "cal/genre-cas"},
    {"label": "Shooting", "goto": "cal/genre-sht"},
    {"label": "Sports", "goto": "cal/genre-spt"},
    {"label": "Role-Playing", "goto": "cal/genre-rpg"},
