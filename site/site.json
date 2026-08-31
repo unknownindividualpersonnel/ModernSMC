@@ -8,10 +8,11 @@
               "hit_palette": 2},
   "menu": [
        {"name": "Calendar", "lines": [
-      {"code": "111", "title": "All Releases", "goto": "db/games"},
+      {"code": "111", "title": "All Releases", "goto": "quest/temp"},
       {"code": "111", "title": "Seperate Releases", "goto": "quest/temp"},
     {"name": "SW Database", "lines": [
       {"code": "115", "title": "SF Title Search", "goto": "db/search-sf"},
+      {"code": "116", "title": "GB Title Search", "goto": "db/search-gb"},
     {"name": "Retailer Data", "lines": [
       {"code": "143", "title": "Per-Store Data   5.11", "goto": "retail/stores"}]},
     {"name": "Club Office", "lines": [
