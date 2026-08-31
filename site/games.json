@@ -8,7 +8,7 @@
     "notes": "Developed by Rare Ltd",
     "extra_panes": [
       {"head": "Forecast Sales", "body": "Millions of copies expected."},
-      {"head": "Overall", "body": "Donkey Kong goes on a quest to get his hoard of bananas back from King K. Rool and his Kremling Krew."}],
+      {"head": "Overall", "body": "Contains 3D visuals."}],
     "rating": {"scores": [["Overall", "4.8 / 5"], ["Depth", "5"],
                           ["Graphics", "5"], ["Sound", "4.2"],
                           ["Value", "4.4"]], "replies": 118}},
@@ -21,7 +21,7 @@
     "notes": "Mario and friends go racing",
     "extra_panes": [
       {"head": "Forecast Sales", "body": "Around 900,000 copies expected."},
-      {"head": "Overall", "body": "Mario and friends go go-karting in 16 courses, in impressive Mode 7. Better than F-Zero."}],
+      {"head": "Overall", "body": "Mario and friends go go-karting in 16 courses."}],
     "rating": {"scores": [["Overall", "4.8 / 5"], ["Realism", "4.3"],
                           ["Graphics", "4.0"], ["Sound", "4.8"],
                           ["Value", "4.6"]], "replies": 188}},
@@ -34,7 +34,7 @@
     "notes": "Kirby goes mini golf",
     "extra_panes": [
       {"head": "Forecast Sales", "body": "Around 500,000 copies expected."},
-      {"head": "Overall", "body": "Push Kirby through 8 courses in an isometric view. Developed by HAL Laboratory."}],
+      {"head": "Overall", "body": "Push Kirby through 8 courses in an isometric view."}],
     "rating": {"scores": [["Overall", "4.6 / 5"], ["Realism", "4.6"],
                           ["Graphics", "4.6"], ["Sound", "4.8"],
                           ["Value", "4.6"]], "replies": 188}},
@@ -46,8 +46,8 @@
     "genre": "ACT", "genre_name": "Action", "cont": "None",
     "notes": "Kirby goes mini golf",
     "extra_panes": [
-      {"head": "Forecast Sales", "body": "As many sales as the console it comes with!"},
-      {"head": "Overall", "body": "Super Famicom launch title. Latest game in the Super Mario series!"}],
+      {"head": "Forecast Sales", "body": "As many sales as the console it comes with."},
+      {"head": "Overall", "body": "Super Famicom launch title."}],
     "rating": {"scores": [["Overall", "5 / 5"], ["Realism", "3.8"],
                           ["Graphics", "4.6"], ["Sound", "5"],
                           ["Value", "4.9"]], "replies": 282}},
@@ -60,7 +60,7 @@
     "notes": "Super Mario Land 3",
     "extra_panes": [
       {"head": "Forecast Sales", "body": "200,000 copies expected"},
-      {"head": "Overall", "body": "Wario goes on a quest for treasure. Gameplay gets people hooked fast."}],
+      {"head": "Overall", "body": "Wario goes on a quest for treasure."}],
     "rating": {"scores": [["Overall", "4.4 / 5"], ["Realism", "2.9"],
                           ["Graphics", "4.6"], ["Sound", "3.6"],
                           ["Value", "4.3"]], "replies": 111}}
