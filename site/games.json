@@ -3,7 +3,7 @@
     "title": "Donkey Kong Country",
     "hw": "SF", "month": "11", "day": "21", "top": true,
     "publisher": "Nintendo", "spec": "SF 4M+17K RAM",
-    "released": "Nov 21 '94 Mon", "price": "unknown",
+    "released": "November 21st", "price": "unknown",
     "genre": "ACT", "genre_name": "Action", "cont": "Battery Backup",
     "notes": "Developed by Rare Ltd",
     "extra_panes": [
@@ -16,7 +16,7 @@
     "title": "Super Mario Kart",
     "hw": "SF", "month": "8", "day": "27", "top": true,
     "publisher": "Nintendo", "spec": "SF 500KB",
-    "released": "Aug 27 '92 Thu", "price": "Unknown",
+    "released": "August 27th", "price": "Unknown",
     "genre": "RAC", "genre_name": "Racing", "cont": "None",
     "notes": "Mario and friends go racing",
     "extra_panes": [
@@ -29,7 +29,7 @@
     "title": "Kirby Bowl",
     "hw": "SF", "month": "9", "day": "21", "top": true,
     "publisher": "Nintendo", "spec": "SF 1MB+SRAM",
-    "released": "Sep 21 '94 Wed", "price": "Unknown",
+    "released": "September 21st", "price": "Unknown",
     "genre": "CAS", "genre_name": "Casual", "cont": "None",
     "notes": "Kirby goes mini golf",
     "extra_panes": [
@@ -42,7 +42,7 @@
     "title": "Super Mario World",
     "hw": "SF", "month": "11", "day": "21", "top": true,
     "publisher": "Nintendo", "spec": "SF 512KB+SRAM",
-    "released": "Nov 21 '90 Wed", "price": "8000 yen",
+    "released": "November 21st", "price": "8000 yen",
     "genre": "ACT", "genre_name": "Action", "cont": "None",
     "notes": "Kirby goes mini golf",
     "extra_panes": [
@@ -55,7 +55,7 @@
     "title": "Wario Land",
     "hw": "GB", "month": "1", "day": "21", "top": true,
     "publisher": "Nintendo", "spec": "SF 512KB+SRAM",
-    "released": "Jan 21 '94 Fri", "price": "Unknown",
+    "released": "January 21st", "price": "Unknown",
     "genre": "ACT", "genre_name": "Action", "cont": "None",
     "notes": "Super Mario Land 3",
     "extra_panes": [
@@ -68,7 +68,7 @@
     "title": "Super Mario RPG",
     "hw": "SF", "month": "3", "day": "9", "top": true,
     "publisher": "Nintendo", "spec": "SF 4M+SRAM",
-    "released": "Mar 9 '96 Sat", "price": "unknown",
+    "released": "March 9th", "price": "unknown",
     "genre": "RPG", "genre_name": "RPG", "cont": "Battery Backup",
     "notes": "Developed by Squaresoft",
     "extra_panes": [
@@ -77,4 +77,17 @@
     "rating": {"scores": [["Overall", "4.9 / 5"], ["Depth", "5"],
                           ["Graphics", "5"], ["Sound", "4.9"],
                           ["Value", "4.6"]], "replies": 162}},
+      "smetroid": {
+    "title": "Super Metroid",
+    "hw": "SF", "month": "3", "day": "19", "top": true,
+    "publisher": "Nintendo", "spec": "SF 4M+SRAM",
+    "released": "March 19th", "price": "9,800 yen",
+    "genre": "ACT", "genre_name": "Action", "cont": "Battery Backup",
+    "notes": "Developed by Squaresoft",
+    "extra_panes": [
+      {"head": "Forecast Sales", "body": "300,000 copies expected"},
+      {"head": "Overall", "body": "The newest entry in the Metroid series."}],
+    "rating": {"scores": [["Overall", "4.9 / 5"], ["Depth", "5"],
+                          ["Graphics", "5"], ["Sound", "4.9"],
+                          ["Value", "4.6"]], "replies": 291}}
 }
