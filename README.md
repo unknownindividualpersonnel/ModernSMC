@@ -17,6 +17,9 @@ won't be a way to get it really online for a good while.
 Research is being conducted to make newly added information as accurate
 to historical records as possible. Unfortunately, nobody's bothered to
 archive game prices.
+**Everything in `site/` is authentic and based off data
+from the service's time. Assets used will be uploaded to this repository
+at one point or another.**
 
 # To-do:
 Add other systems, Restore all the stuff i axed, and eventually add a
