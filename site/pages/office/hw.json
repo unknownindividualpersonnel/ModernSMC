@@ -1,11 +1,6 @@
-{"type": "record", "title": "Satellaview", "back": "menu",
+{"type": "record", "title": "Super Scope", "back": "menu",
  "fields": [["Publisher:", "Nintendo"],
-            ["Released:", "1995"],
-            ["Price:", "14000 yen"],
-            ["Notes:", "Famicom Network System's succesor"]]},
-{"type": "record", "title": "Super Famicom Mouse", "back": "menu",
- "fields": [["Publisher:", "Nintendo"],
-            ["Released:", "1992"],
-            ["Price:", "Unknown"],
-            ["Notes:", "A computer mouse for the Super Famicom"]]}
+            ["Released:", "1993"],
+            ["Price:", "9,800 yen"],
+            ["Notes:", "Light gun for Super Famicom"]]}
 
