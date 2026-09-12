@@ -8,4 +8,5 @@
    {"label": "Simulation", "goto": "cal/genre-sim"},
    {"label": "Adventure", "goto": "cal/genre-adv"},
    {"label": "Puzzle", "goto": "cal/genre-puz"},
+  {"label": "Racing", "goto": "cal/genre-rac"},
    {"label": "Other", "goto": "cal/genre-oth"}]}
