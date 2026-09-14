@@ -12,6 +12,8 @@ When everything is all said and done and ready to go, i'll update this
 so that people can connect to ModernSMC.
 However, considering the fact this is meant to run locally, there probably
 won't be a way to get it really online for a good while.
+This will be updated when the service has been tested, as due to the lack of
+required tools, nobody can test it right now.
 
 ### Extra info
 Research is being conducted to make newly added information as accurate
