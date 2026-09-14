@@ -8,10 +8,22 @@
       "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
       "notes": "Super Game Boy compatible",
       "extra_panes": [
-        {"head": "Forecast Sales", "body": "300,000 copies expected"},
-        {"head": "Overall", "body": "The newest entry in the Metroid series."}],
+        {"head": "Review", "body": "Temp description until the flyer gets google translated"}],
       "rating": {"scores": [[["Graphics", "7/10"], ["Sound", "6/10"],
           ["Operability", "7/10"], ["Persistence", "7/10"],
           ["Totsuki Level", "8/10"], ["Buyability", "7/10"]],
+        "replies": 214,
+            "smetroid": {
+      "title": "Super Metroid",
+      "hw": "SF", "month": "3", "day": "19", "top": true,
+      "publisher": "Nintendo", "spec": "GB Cart",
+      "released": "'94 Mar 19", "price": "9,800 yen",
+      "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
+      "notes": "Brand new Metroid for SF",
+      "extra_panes": [
+        {"head": "Review", "body": "The graphics and sound quality are great, and it's highly polished."}],
+      "rating": {"scores": [[["Graphics", "?/10"], ["Sound", "?/10"],
+          ["Operability", "?/10"], ["Persistence", "?/10"],
+          ["Totsuki Level", "?/10"], ["Buyability", "?/10"]],
         "replies": 214
       ]
