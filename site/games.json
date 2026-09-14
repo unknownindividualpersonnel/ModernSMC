@@ -2,60 +2,15 @@
   {
     "dk94": {
       "title": "Donkey Kong",
-      "hw": "GB",
-      "month": "6",
-      "day": "14",
-      "top": true,
-      "publisher": "Nintendo",
-      "spec": "GB Cart",
-      "released": "'94 Jun 14",
-      "price": "3,900 yen",
-      "genre": "ACT",
-      "genre_name": "Action",
-      "cont": "Battery Saving",
-      "notes": "SGB compatible",
+      "hw": "GB", "month": "6", "day": "14", "top": true,
+      "publisher": "Nintendo", "spec": "GB Cart",
+      "released": "'94 Jun 14", "price": "3,900 yen",
+      "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
+      "notes": "Super Game Boy compatible",
       "extra_panes": [
-        {
-          "head": "Forecast Sales",
-          "body": "300,000 copies expected"
-        },
-        {
-          "head": "Overall",
-          "body": "The newest entry in the Metroid series."
-        }
-      ],
-      "rating": {
-        "scores": [
-          [
-            "Graphics",
-            "7/10"
-          ],
-          [
-            "Sound",
-            "6/10"
-          ],
-          [
-            "Operability",
-            "7/10"
-          ],
-          [
-            "Persistence",
-            "7/10"
-          ],
-          [
-            "Totsuki Level",
-            "8/10"
-          ],
-          [
-            "Buyability",
-            "7/10"
-          ]
-        ]
-      }
-    }
-  },
-  [
-    "replies",
-    ": 50"
-  ]
-]
+        {"head": "Forecast Sales", "body": "300,000 copies expected"},
+        {"head": "Overall", "body": "The newest entry in the Metroid series."}],
+      "rating": {"scores": [[["Graphics", "7/10"], ["Sound", "6/10"],
+          ["Operability", "7/10"], ["Persistence", "7/10"],
+          ["Totsuki Level", "8/10"], ["Buyability", "7/10"]],
+        "replies": 214}},
