@@ -24,7 +24,7 @@ from the service's time. Assets used will be uploaded to this repository
 at one point or another.**
 
 # To-do:
-Add other systems, Restore all the stuff i axed, and eventually add a
+Restore all the stuff i axed, and eventually add a
 Japanese translation for the sake of both historical accuracy and also
 accessibility 
 
