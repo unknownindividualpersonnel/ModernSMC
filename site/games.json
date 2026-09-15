@@ -25,5 +25,18 @@
       "rating": {"scores": [[["Graphics", "?/10"], ["Sound", "?/10"],
           ["Operability", "?/10"], ["Persistence", "?/10"],
           ["Totsuki Level", "?/10"], ["Buyability", "?/10"]],
+        "replies": 214,
+            "rockman6": {
+      "title": "Rock Man 6",
+      "hw": "FC", "month": "11", "day": "5", "top": true,
+      "publisher": "Nintendo", "spec": "FC 512KB",
+      "released": "'93 Nov 5", "price": "7,800 yen",
+      "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
+      "notes": "Newest entry in Rockman series",
+      "extra_panes": [
+        {"head": "Review", "body": "Stage designs vary and it is quite difficult, but fans will enjoy it."}],
+      "rating": {"scores": [[["Graphics", "8/10"], ["Sound", "6/10"],
+          ["Operability", "8/10"], ["Persistence", "8/10"],
+          ["Totsuki Level", "7/10"], ["Buyability", "8/10"]],
         "replies": 214
       ]
