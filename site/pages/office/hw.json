@@ -3,7 +3,7 @@
             ["Released:", "1993"],
             ["Price:", "9,800 yen"],
             ["Notes:", "Light gun for Super Famicom"]],
- {"type": "record", "title": "Super Famicom Mouse", "back": "menu",
+ "type": "record", "title": "Super Famicom Mouse", "back": "menu",
  "fields": [["Publisher:", "Nintendo"],
             ["Released:", "1992"],
             ["Price:", "4.000 yen"],
