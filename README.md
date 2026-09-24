@@ -18,10 +18,10 @@ required tools, nobody can test it right now.
 ### Extra info
 Research is being conducted to make newly added information as accurate
 to historical records as possible. Unfortunately, nobody's bothered to
-archive game prices.
+archive game prices (but we are finding them through said research).
 **Everything in `site/` is authentic and based off data
-from the service's time. Assets used will be uploaded to this repository
-at one point or another.**
+from the service's time. Assets used in ModernSMC's development
+will be uploaded to this repository at one point or another.**
 
 # To-do:
 Restore all the stuff i axed, and eventually add a
