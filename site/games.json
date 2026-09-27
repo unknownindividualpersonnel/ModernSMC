@@ -16,7 +16,7 @@
             "smetroid": {
       "title": "Super Metroid",
       "hw": "SF", "month": "3", "day": "19", "top": true,
-      "publisher": "Nintendo", "spec": "GB Cart",
+      "publisher": "Nintendo", "spec": "SF Cart",
       "released": "'94 Mar 19", "price": "9,800 yen",
       "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
       "notes": "Brand new Metroid for SF",
@@ -38,5 +38,31 @@
       "rating": {"scores": [[["Graphics", "8/10"], ["Sound", "6/10"],
           ["Operability", "8/10"], ["Persistence", "8/10"],
           ["Totsuki Level", "7/10"], ["Buyability", "8/10"]],
+        "replies": 214,
+        "banshee": {
+           "title": "Banshee's Last Cry",
+      "hw": "SF", "month": "11", "day": "25", "top": true,
+      "publisher": "Chunsoft", "spec": "Unlisted",
+      "released": "'94 Nov 25", "price": "Unknown",
+      "genre": "VIS", "genre_name": "Visual Novel", "cont": "Battery Saving",
+      "notes": "Great Visual Novel",
+      "extra_panes": [
+        {"head": "Review", "body": "Great Visual Novel by Chunsoft. Many will enjoy."}],
+      "rating": {"scores": [[["Graphics", "9/10"], ["Sound", "9/10"],
+          ["Operability", "7/10"], ["Persistence", "9/10"],
+          ["Totsuki Level", "8/10"], ["Buyability", "7/10"]],
+        "replies": 214,
+                "superdk": {
+           "title": "Super Donkey Kong",
+      "hw": "SF", "month": "11", "day": "26", "top": true,
+      "publisher": "Nintendo", "spec": "Unlisted",
+      "released": "'94 Nov 26", "price": "Unknown",
+      "genre": "ACT", "genre_name": "Action", "cont": "3D Graphics",
+      "notes": "32-bit platformer",
+      "extra_panes": [
+        {"head": "Review", "body": "Computer Generated graphics from SiliconGraphics will bring this game to life"}],
+      "rating": {"scores": [[["Graphics", "9/10"], ["Sound", "9/10"],
+          ["Operability", "7/10"], ["Persistence", "9/10"],
+          ["Totsuki Level", "8/10"], ["Buyability", "7/10"]],
         "replies": 214
       ]
