@@ -64,5 +64,18 @@
       "rating": {"scores": [[["Graphics", "9/10"], ["Sound", "9/10"],
           ["Operability", "7/10"], ["Persistence", "9/10"],
           ["Totsuki Level", "8/10"], ["Buyability", "7/10"]],
-        "replies": 214
+        "replies": 214,
+            "kdl2": {
+      "title": "Kirby's Dream Land 2",
+      "hw": "GB", "month": "3", "day": "21", "top": true,
+      "publisher": "Nintendo", "spec": "GB Cart",
+      "released": "'95 Mar 21", "price": "Unknown",
+      "genre": "ACT", "genre_name": "Action", "cont": "Battery Saving",
+      "notes": "Super Game Boy compatible",
+      "extra_panes": [
+        {"head": "Review", "body": "Temp description until someone figures out a good one"}],
+      "rating": {"scores": [[["Graphics", "8/10"], ["Sound", "8/10"],
+          ["Operability", "7/10"], ["Persistence", "7/10"],
+          ["Totsuki Level", "7/10"], ["Buyability", "8/10"]],
+        "replies": 362,
       ]
